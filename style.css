@@ -1,0 +1,73 @@
+@font-face {
+    font-family: avarezo;
+    src: url(./MachineryScript_PERSONAL_USE_ONLY.otf);
+}
+
+header{
+    margin-top: -60px;
+}
+
+.logo img{
+    width: 130px;
+}
+
+
+body{
+    margin-top: 90px;
+    background-color: rgb(255, 227, 235);
+    color: rgb(202, 21, 120);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1.5rem;
+}
+body p{
+    margin-top: -27px;
+    font-size: 1.2rem;
+}
+
+svg{
+    margin-top: 60px;
+}
+
+
+
+footer a{
+    color: rgb(202, 21, 120);
+    font-size: 1rem;
+}
+
+#container{
+    margin-top: 70px;
+    padding: 60px;
+    background-color: rgba(202, 21, 120, 0.1);
+}
+
+h2{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+
+h1{
+    font-family: 'avarezo';
+    font-weight: 100;
+}
+
+
+#relogio{
+    font-size: 5rem;
+    font-weight: bold;
+    margin-top: -25px;
+}
+
+.texto{
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+}
+
+.texto p{
+    font-size: 0.8rem;
+    width: 700px;
+}
